@@ -5,9 +5,9 @@
  * 1.2.n.1.c.x New C4
  * 1.2.n.2.c.x New C5
  * 1.2.n.4. Delete item
- * 1.2.n.7. Sub C4
- * 1.2.n.8. Add C4
- * 1.2.n.9. Add C5
+ * 1.2.n.7.a.b. Sub C4
+ * 1.2.n.8.a.b. Add C4
+ * 1.2.n.9.a.b. Add C5
  * 1.3.n. Delete C3
  * 1.4.n. Print C3
  * 1.5.n. New C1 or C2
